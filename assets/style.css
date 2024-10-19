@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.div-main{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+
+}
+.div-select{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    width:30%;
+    margin-bottom: 2%;
+
+    margin-top: 2%;
+    direction: rtl;
+}
+.select{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 30%;
+}
+
+button{
+    width:20%;
+    margin-top: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
